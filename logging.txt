@@ -1,0 +1,94 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "tree new york house",
+    "phone_number": "(+91) 983 893 3937",
+    "address": "Times Square",
+    "website": "http://google.com",
+    "language": "English",
+    "types": [
+        "shoe park",
+        "shop"
+    ],
+    "location": {
+        "lat": 33.427362,
+        "lng": 0.0
+    }
+}
+HTTP/1.1 200 OK
+Date: Wed, 26 Aug 2020 19:05:36 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "5384ca1314fb06f43fa683564f84b426",
+    "scope": "APP",
+    "reference": "a9bfd3654a9938a879fcb3ee69df54f8a9bfd3654a9938a879fcb3ee69df54f8",
+    "id": "a9bfd3654a9938a879fcb3ee69df54f8"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "B new house",
+    "phone_number": "(+91) 983 893 3937",
+    "address": "Beverly Hills Square",
+    "website": "http://google.com",
+    "language": "English",
+    "types": [
+        "shoe park",
+        "shop"
+    ],
+    "location": {
+        "lat": 33.427362,
+        "lng": 0.0
+    }
+}
+HTTP/1.1 200 OK
+Date: Wed, 26 Aug 2020 19:05:37 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "397bf63826631527383c7073a3932ce1",
+    "scope": "APP",
+    "reference": "43a623f4ec897d0311e73540b1d7acd343a623f4ec897d0311e73540b1d7acd3",
+    "id": "43a623f4ec897d0311e73540b1d7acd3"
+}
